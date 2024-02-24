@@ -1,5 +1,5 @@
 predictions = [    
-	"A chilling wind will bring ominous news.",
+    "A chilling wind will bring ominous news.",
     "You will find an unexpected ally in a ghoul.",
     "A banshee's wail will foretell an important event in your life.",
     "You will have a close encounter with an entity from the spirit realm.",
